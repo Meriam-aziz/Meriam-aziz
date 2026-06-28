@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Meriam Aziz</h1>
+
+<h3 align="center">🤖 AI Engineer | Computer Vision | LLMs | AI Agents</h3>
+
 # Hi 👋, I'm Meriam Aziz
 
 ## 🤖 Artificial Intelligence Engineer

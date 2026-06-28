@@ -95,15 +95,7 @@ I enjoy developing AI-powered solutions that solve real-world problems by combin
 
 ---
 
-# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meriam-aziz\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriam-aziz\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Meriam-aziz\&theme=tokyonight)
-
----
 
 ⭐ **Thanks for visiting my GitHub profile!**
 

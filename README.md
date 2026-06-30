@@ -6,10 +6,6 @@
 
 <h3 align="center">🤖 AI Engineer | Computer Vision | LLMs | AI Agents</h3>
 
-# Hi 👋, I'm Meriam Aziz
-
-## 🤖 Artificial Intelligence Engineer
-
 I'm passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Large Language Models (LLMs), and AI Agents**.
 
 I enjoy developing AI-powered solutions that solve real-world problems by combining intelligent models, computer vision, and autonomous AI systems.
@@ -18,9 +14,11 @@ I enjoy developing AI-powered solutions that solve real-world problems by combin
 
 # 🌐 Connect with Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/meriam-aziz
-* 📧 **Email:** [meriamaziz000@gmail.com](mailto:meriamaziz000@gmail.com)
-* 💻 **GitHub:** https://github.com/Meriam-aziz
+* 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriam_Aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-aziz)
+
+* 📧[![Gmail](https://img.shields.io/badge/Gmail-meriamaziz000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meriamaziz000@gmail.com)
+
+
 
 ---
 
